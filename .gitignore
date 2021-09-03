@@ -1,0 +1,9 @@
+/.git
+/.svn
+/.idea
+.idea
+*.log
+/node_modules
+/unpackage
+unpackage
+.hbuilderx
